@@ -1,0 +1,28 @@
+Instructions
+1.Khai báo một kiểu cấu trúc Student gồm các trường dữ liệu sau: 
+Name (lưu tên), StudentID (lưu MSSV), DOB (lưu ngày tháng năm sinh), 
+Grade (lưu điểm). Trong đó DOB cũng là một biến kiểu cấu trúc gồm 
+các trường dữ liệu sau: day, month, year. Grade cũng là một biến kiểu 
+cấu trúc gồm các trường dữ liệu sau: math, physic, chemistry (lưu điểm
+ ba môn toán lý hoá)
+a)Yêu cầu người dùng nhập vào một sô nguyên 5 <= n <= 10 là số lượng sinh
+ viên trong danh sách
+b)Yêu cầu người dùng nhập vào thông tin cho các sinh viên trong danh sách 
+(cần kiểm tra tính đúng đắn của dữ liệu nhập vào ví dụ điểm các môn phải 
+từ 0 đến 10)
+c)Hiển thị danh sách các sinh viên có tổng điểm ba môn >= 23
+d)Hiển thị danh sách các sinh viên không có điểm liệt (điểm của bất kỳ môn 
+nào <= 3)
+2.Yêu cầu người dùng nhập vào một mảng số nguyên có 10 phần tử. Viết hàm 
+con nhận tham số vào là mảng và số phần tử của mảng. Hàm con này trả về con
+ trỏ, trỏ đến phần tử lớn nhất trong mảng. Gọi hàm này trong hàm main, hiển 
+ thị giá trị lớn nhất đó thông qua con trỏ được trả về đó.
+3.Yêu cầu người dùng nhập vào một mảng số nguyên có n phần tử (n do người 
+dùng nhập). Viết hàm con nhận tham số vào là mảng và số phần tử của mảng. Hàm 
+con này  thực hiện đảo ngược các phần tử trong mảng và trả về là con trỏ trỏ 
+đến phần tử đầu tiên của mảng. Gọi hàm này trong hàm main, hiển thị mảng đã 
+đảo ngược thông qua con trỏ được trả về đó.
+4.Viết chương trình nhận vào một chuỗi (string) từ người dùng và thay thế các 
+dấu câu (, . ; : ? !) bằng dấu cách (khoảng trắng)
+5.Viết chương trình nhận vào một chuỗi (string) từ người dùng và thay thế các 
+chữ số bằng chuỗi phát âm tương ứng (ví dụ: cr7 -> crbay)

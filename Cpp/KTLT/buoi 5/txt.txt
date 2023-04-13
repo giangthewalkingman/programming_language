@@ -1,0 +1,10 @@
+
+
+co 2 vungg:
+stack(dung cho bo nho tinh) va heap(vung nho tu do)(dung cho bo nho dong)
+heap nen dc giai phong khi ko dung nua
+thời gian sôngs của vùng nhớ động > thời gian sống của cái mà cấp phát ra 
+vùng nhớ -> rò rỉ bộ nhớ
+trong stack, ta co thuat ngu: LIFO: Last in - First out
+
+*nhớ phải lưu đầu ra là tham chiếu, vì như thế mới cout dc : int*& p2 = b; (abc,xyz, biến tham chiếu)

@@ -1,0 +1,9 @@
+1.
+Định nghĩa lớp Array đại diện cho một mảng số nguyên. Hãy thực hiện các yêu cầu sau
+Hàm tạo, hàm hủy, hàm tạo bản sao
+Hàm cho phép nhập dữ liệu vào từ bàn phím và hàm hiển thị ra màn hình cho Array (2 hàm)
+Hàm cho phép gán (ghi) và hàm lấy (đọc) giá trị của một phần tử nào đó trong Array (2 hàm)
+Viết chương trình chính minh họa cách sử dụng
+
+2. 
+Bổ sung hàm tạo tham số mặc định cho các lớp Date, Complex, Person đã được thực hiện trong Assignment 4

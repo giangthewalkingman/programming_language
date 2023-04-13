@@ -1,0 +1,14 @@
+1.  Viết hàm tìm giá trị của đa thức bậc n tại x (hệ số của đa thức là một mảng số thực). 
+Hàm có dạng double Polynom(double * heso, int n, double x)
+ 
+
+2.   Xây dựng cấu trúc Complex để đại diện cho một số phức với thành phần thực và ảo đều là số thực. Yêu cầu:  
+a.      Hãy viết các hàm tính tổng, hiệu, tích, thương của hai số phức
+b.      Viết một hàm tính đồng thời tổng và hiệu của hai số phức.
+c.      Viết hàm hiển thị một số phức theo đúng định dạng (a+bj với a là thành phần thực, b là thành phần ảo)
+d.      Viết chương trình chính sử dụng các hàm trên.
+
+3.  Viết một hàm đồng thời tìm giá trị lớn nhất và giá trị nhỏ nhất của một mảng số nguyên. Viết chương trình chính sử dụng hàm trên.
+
+4.  Viết hàm tìm dạng của tam giác nếu biết độ dài 3 cạnh của nó. 
+Hàm có dạng void kiemTraTamGiac (int a, int b, int c). Viết chương trình sử dụng hàm trên.

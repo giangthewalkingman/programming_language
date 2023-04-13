@@ -1,0 +1,11 @@
+ham tao, ham tao ban sao ko ke thua dc ma phai dinh nghia them o cac lop khac
+Lop dan xuat:
+- Ham tao: can dinh nghia va phai goi ham tao lop co so (:) (bat ke lop dan xuat co bien moi hay ko)
+- Ham tao sao chep: 
++) Lop dan xuat ko co bien moi dc cap phat bo nho dong -> ko can dinh nghia
++) Nguoc lai -> phai dinh nghia + goi ham tao sao chep lop co so
+- Ham huy:
++) Lop dx ko co bien moi co bo nho dong, ko can dinh nghia
++) Nguoc lai: Dinh nghia ham huy cho lop dx + ko goi ham huy cua lop co so
+
+

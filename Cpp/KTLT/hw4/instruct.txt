@@ -1,0 +1,23 @@
+Instructions
+Bài 1. Xây dựng một lớp tên Complex để đại diện cho một số phức với các yêu cầu:
+
+Thành phần thực và ảo đều là số thực float
+Hàm nhập thành phần thực, thành phần ảo từ bàn phím
+Hàm hiển thị thông tin ra màn hình
+Hàm lấy thành phần thực, hàm gán thành phần thực
+Hàm lấy thành phần ảo, hàm gán thành phần ảo
+Hàm đồng thời lấy thành phần thực, thành phần ảo
+Hàm đồng thời gán thành phần thực, thành phần ảo
+Viết chương trình chính minh họa cách sử dụng
+Bài 2. Xây dựng một lớp tên person để đại diện cho một người với các yêu cầu:
+
+Tên có độ dài tối đa 50 ký tự
+Ngày, tháng, năm sinh có kiểu int
+Quê quán có độ dài tối đa 100 ký tự
+Hàm nhập tên, ngày sinh, quê từ bán phím
+Hàm hiển thị thông tin ra màn hình
+Hàm lấy tên, hàm gán tên
+Hàm lấy quê quán, hàm gán quê quán
+Hàm lấy ngày sinh, hàm gán ngày sinh
+Viết chương trình chính minh họa cách sử dụng
+Bài 3. Thực hiện lại Bài 2 với ngày, tháng, năm sinh của một người thuộc kiểu Date (class Date) như đã gợi ý trong bài giảng.

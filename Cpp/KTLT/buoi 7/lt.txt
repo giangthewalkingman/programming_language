@@ -1,0 +1,29 @@
+ham tao:
+ham tao mac dinh != ham tao tham so mac dinh
+y nghia cua ham tao:
+- cap phat bo nho dong
+- khoi tao cac trang thai ban dau cho doi tuong
+
+khi co bo nho dong -> bat buoc phai dinh nghia ham huy, va dung toan tu delete
+neu ko dinh nghia ham huy thi trinh bien dich cx tu sinh ra nhung ma thuc thi la rong
+
+khi co doi tg dc quan li boi toan tu new -> phai co toan tu delete
+
+ham tao sao chep:
+neu ko define ham tao sao chep, trinh bien dich cx se tu dong sinh ra 1 ham tao sao chep
+va tien hanh sao chep tung bit
+khi nao doi tuong bi sao chep?
+
+khi co bo nho dong -> phai dinh nghia ham tao sao chep, vi khi b sao chep a, b thay doi gia
+tri thi a se thay doi theo
+
+con tro this:
+
+
+
+
+
+
+*) code chuan thi dung truyen tham chieu vi ko sinh ra cac vung nho moi
+
+Array& Array : gan lien tiep

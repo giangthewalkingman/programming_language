@@ -1,0 +1,43 @@
+[2/15 4:38 PM] Nguyen Thi Kim Thoa
+    
+
+
+	
+Mô tả bài toán:
+
+
+Các học phần trong chương trình đào tạo được phân biệt với nhau bằng mã học phần. Mã học phần là một chuỗi gồm 6 ký tự trong đó 2 ký tự đầu thể hiện mã Viện, ký tự tiếp theo thể hiện khối kiến thức mà học phần đó thuộc về (1: Đại cương, 2:  Cơ sở ngành, 3:  Cốt lõi ngành, 4: Chuyên ngành (tự chọn): 5:  Chuyên ngành nâng cao), 3 ký tự cuối là số hiệu của từng học phần.  
+
+
+Ví dụ học phần ET2031 là học phần do Viện ĐTVT quản lý, học phần này thuộc khối kiến thức cơ sở ngành và có số hiệu là 031. 
+
+
+Viết chương trình C++ thực hiện các công việc sau:
+
+
+	
+	
+
+		
+Tạo lớp Hocphan (cHocphan) với ba thuộc tính mã học phần (theo quy định trên), tên học phần, số tín chỉ  phạm vi private. Trong đó mã học phần, tên học phần là xâu ký tự, số tín chỉ là số nguyên dương (0.5 điểm). 
+		
+Viết hàm khởi tạo mặc định, khởi tạo có tham số (0.5 điểm).
+		
+Viết hàm trả về số nguyên thể hiện loại khối kiến thức mà học phần đó thuộc về theo giải thích ở trên. Ví dụ hàm trả về 1 với học phần thuộc khối đại cương (0.5 điểm).
+		
+Sử dụng lớp đã viết ở câu a, b, c, viết một chương trình:
+		
+
+			
+Tạo đối tượng c1 thuộc lớp cHocphan với  số tín chỉ  bằng (a+1)%3 trong đó a là số cuối của MSSV. (0.5 điểm)
+			
+Tạo một mảng động gồm a+3 phần tử thuộc lớp  cHocphan, a là số cuối của MSSV. Nhập dữ liệu từ bàn phím.  (0.5 điểm)
+			
+Viết hàm in ra danh sách các học phần thuộc khối kiến thức cốt lõi ngành có số tín chỉ bằng 3 (sử dụng hàm viết ở câu c) (0.5 điểm).
+		
+		
+	
+	
+
+
+<https://teams.microsoft.com/l/message/19:febab243da314661aaf8ddce9548cd5a@thread.tacv2/1676453928656?tenantId=06f1b89f-07e8-464f-b408-ec1b45703f31&amp;groupId=f9a3c84d-27c6-44b9-9f09-067f9198320a&amp;parentMessageId=1676453928656&amp;teamName=20221-KTLT-137231&amp;channelName=Thảo luận&amp;createdTime=1676453928656&amp;allowXTenantAccess=false>

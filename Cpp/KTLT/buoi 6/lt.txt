@@ -1,0 +1,4 @@
+co 3 cach khai bao bien thanh vien trong lop:
+private(//default), public, protected( lop dan xuat)
+
+trong class, ta tap trung vao 2 ham chinh : get & set, ham tao: cung ten voi lop, ko co kieu, co doi so(hoac ko)

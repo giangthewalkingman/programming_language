@@ -1,0 +1,9 @@
+MIngw Installation:
+1. Download the .exe file on https://sourceforge.net/projects/mingw/
+2. Run the file
+3. If a window "the file has been downloaded incorrectly" pops up, go to https://sourceforge.net/projects/mingw-w64/files/ , scroll down, download x86_64-win32-sjlj package of MinGW-W64 GCC-8.1.0
+4. Extract the folder, then copy the extracted one into your windows(:C) location
+5. Edit environment variables:
+Create 2 vari in System variables\Path: 1)C:\mingw64, 2)C:\mingw64\bin. The first one is enough but the second is to make sure that the we have both
+6. Go to command prompt and type "gcc --version" to make sure we succeed in the installation
+7. Link https://youtube.com/watch?v=Zcy981HhGw0&si=EnSIkaIECMiOmarE

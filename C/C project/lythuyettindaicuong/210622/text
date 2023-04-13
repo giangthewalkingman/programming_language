@@ -1,0 +1,14 @@
+Bài tập tuần 13 21/6/2022
+Due June 28, 2022 12:30 AM
+Instructions
+Bài 1. Nhập vào dãy (<100) số, tính và đưa ra màn hình
+Tổng và tích của dãy số
+Các số chia hết cho 3 và lớn hơn 10
+Đếm các số nằm trong đoạn [100,1000)
+Bài 2. Nhập vào một dãy số; tìm số chẵn nhỏ nhất dãy
+Bài 3. Nhập dãy số; đếm xem có bao nhiêu bộ 3 số thỏa mãn điều kiện x[i] = (x[i-1]+x[i+1]) / 2
+Bài 4. Viết chương trình nhập vào từ bàn phím một dãy số ( < 100 phần tử). Đưa ra số bé nhất và vị trí những số bằng số bé nhất
+Bài 5.
+b1:Nhập vào một dãy số (<100 phần tử) 
+b2:sắp xếp theo thứ tự tăng dần.
+b3:Nhập thêm vào một số và chèn số mới nhập vào đúng vị trí

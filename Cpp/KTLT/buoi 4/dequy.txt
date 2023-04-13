@@ -1,0 +1,14 @@
+int calculate(v){
+    if(v==1) return v;
+    return 1+(v&1?calculate(v-1):calculate(v-2));
+}
+
+//cho v =28;
+
+calculate(28) = 1+calculate(14)
+            = 1+1+calculate(7)
+            = 2+1+calculate(6)
+            = 3+1+calculate(3)
+            =4+1+calculate(2)
+            = 5+1+calculate(1)
+            =5+1+1=7

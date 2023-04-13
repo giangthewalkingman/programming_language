@@ -1,0 +1,14 @@
+1. Hãy nạp chồng các toán tử +,-,*, +=, -=, *=, ==, !=, >, < sử dụng hàm thành viên, toán tử nhập/xuất cho lớp số complex sử dụng hàm bạn. Viết chương trình chính sử dụng lớp này 
+
+2. Bổ sung các yêu cầu sau vào lớp Array 
+
+Hàm nạp chồng toán tử [] (lấy giá trị của một phần tử),  
+Định nghĩa toán tử nhập, xuất một array 
+Định nghĩa toán tử gọi hàm () để lấy ra giá trị max của mảng. 
+Nạp chồng toán tử +, -, * hai array, hoặc array với một số 
+Viết chương trình chính sử dụng lớp này
+
+
+P = (a+bi)(c+di)
+= ac + bci + adi -bd
+= (ac-bd) + (bc+ad)i

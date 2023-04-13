@@ -1,0 +1,56 @@
+Chương 5: Mảng, con trỏ và xâu kí tự
+5.1.Mảng:
+a.Kn: 
+-Quản lý 1 tập các phần tử của chung 1 kiểu dữ liệu
+-Số phần tử trong mảng là hữu hạn
+-Muốn truy cập vào một phần tử của mảng thì cần biết tên mảng và chỉ số của phần tử đó
+-N=10: chỉ số ptu thứ nhất =0
+chỉ số ptu cuối cùng =9(N-1)
+b.Khai báo mảng:
+int n=10;
+int A[n]
+//cant run bcz n is a variable
+#define n 10;
+int A(n);
+//ok
+
+kích thước của mảng = kích thước 1 phần tử nhân số phần tử
+vd: sizeof(int) = 4 bytes
+thì kích thươc của mảng A(10) khai báo theo số nguyên là 40 bytes
+
+int A[10];
+A[7]=6; -> ptu thứ 8 là 6
+
+cách khai báo mảng:
+c. cấp phát bộ nhớ 
+d.truy cập phần tử trong mảng
+ nếu khai báo nhiều mảng cùng lúc, thì nếu số thứ tự của phần tử vượt quá bộ nhớ mảng này thì nó sẽ nhảy sang mảng khác (theo thứ tự)
+e.mảng nhiều chiều:
+vd: int t[3][4];
+
+f. khởi tạo giá trị cho mảng:
+các phần tử của mảng có thê được khởi tạo giá trị ngay khi được khai báo
+ví dụ:
+int a[4] = {1,4,6,2};
+int b[2][3]= {{1,2,3},{4,5,6}};
+- nếu ko khởi tạo hết -> gán giá trị cho phần tử tương ứng =0
+vdu: A[4]={1,2} -> A[3]=A[4]=0
+
+g. Các thao tác thường gặp
+1. Nhập, xuất dữ liệu
+2. Bài toán đếm
+3. Tìm kiếm phần tử:
+lớn nhất, tìm phần tử với giá trị cho trước
+4. sắp xép(tăng, giảm)
+5. chèn phần tử, xóa phần tử
+
+5.2 Con trỏ:
+a. Địa chỉ
+b. Toán tử cấy địa chỉ
+c. Con trỏ:
+là kiểu lưu địa chỉ của biến        int a;
+con trỏ kiểu nào thì lưu địa chỉ biến kiểu đó       int* a;
+d. Toán tử gián tiếp/ tham chiếu ngược
+(indirection/dereferencing) 
+
+5.3. Xâu kí tự:

@@ -1,0 +1,119 @@
+lap trinh tong quat dung con tro void: 
+void *
+
+--------.
+code    |
+        |
+        |
+        |
+        |
+--------|
+global  |
+        |
+        |
+        |
+        |
+--------|
+heap    |
+        |
+        |
+        |
+        |
+--------|
+stack   |
+        |
+        |
+        |
+        |
+--------|
+main    |
+        |
+        |
+        |
+        |
+--------!
+
+void selSortRecursive( int ACI, int low, int hi) {
+    if(low < hi){
+        int minIdx = 0;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+    }
+}

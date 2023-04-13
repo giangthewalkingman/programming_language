@@ -1,0 +1,5 @@
+1. Xây dựng một khuôn mẫu hàm cho phép tìm giá trị lớn nhất, nhỏ nhất, trị tuyệt đối lớn nhất, trị tuyệt đối nhỏ nhất trong một mảng. Cần tổng quát hóa kiểu dữ liệu của mảng và tổng quát hóa thuật toán. 
+
+2. Tổng quát hóa kiểu dữ liệu cho lớp array. Lớp Array đã được thực hiện trước đây. 
+
+3. Áp dụng tổng quát hóa kiểu dữ liệu và tổng quát hóa phép toán để xây dựng các hàm cần thiết thực hiện các phép toán cộng, trừ, nhân, chia từng phần tử của hai mảng (lưu ý, 2 mảng có số phần tử bằng nhau). Sau đó viết chương trình minh họa cách sử dụng. 

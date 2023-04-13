@@ -1,0 +1,13 @@
+tim hieu tach file trong C++ ntn
+cac kieu truyen haam:
+- truyen gia tri
+- truyen dia chi/ con tro -> (hoc ki)
+- truyen tham chieu -> thay doi dc dau vao cua ham, luu dau ra cho ham  // (3 TH: khi muon thay doi dau vao / luu dau ra / kich thuoc du lieu lon)
+
+nam ki 3 kieu truyen -> lap trinh OOP, cau truc du lieu va giai thuat
+
+- tham so mac dinh cua ham phai nam o cuoi luc goi ham, neu khai bao thieu thi ksao, no se tu chay :v
+
+-nap chong ham phai khac nhau boi:
++ so luong tham so truyen vao
++ kieu tham so truyen vao

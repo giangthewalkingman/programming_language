@@ -1,0 +1,74 @@
+https://howkteam.vn/course/khoa-hoc-lap-trinh-c-can-ban/ham-tra-ve-gia-tri-tham-chieu-va-dia-chi-trong-cvalue-reference-and-address-3889https://howkteam.vn/course/khoa-hoc-lap-trinh-c-can-ban/ham-tra-ve-gia-tri-tham-chieu-va-dia-chi-trong-cvalue-reference-and-address-3889https://howkteam.vn/course/khoa-hoc-lap-trinh-c-can-ban/ham-tra-ve-gia-tri-tham-chieu-va-dia-chi-trong-cvalue-reference-and-address-3889https://howkteam.vn/course/khoa-hoc-lap-trinh-c-can-ban/ham-tra-ve-gia-tri-tham-chieu-va-dia-chi-trong-cvalue-reference-and-address-3889https://howkteam.vn/course/khoa-hoc-lap-trinh-c-can-ban/ham-tra-ve-gia-tri-tham-chieu-va-dia-chi-trong-cvalue-reference-and-address-3889
+cấu trúc đề thi : 40% TN, 60% TL. TL gồm code C(struct, hàm) và C++. Con trỏ: *p = ?, kiểu DL, các toán tử
+thống nhất: x86: sizeof(pointer)=4
+
+đối tượng bị hủy -> luôn gọi hàm hủy
+phải nhận ra là khi nào đối tg đc gọi ra, khi nào thì hủy đối tg đi
+khi nào tạo hàm tạo sao chép: Sinhvien S2 = S1; //S2(S1); S2 = Sinhvien(S1); Hienthi(S1), vì kiểu truyền giá trị là sao chép dữ liệu của biến đầu vào
+
+void main(){
+{Sinhvien S1;
+{Sinhvien S2;}// ra khỏi ngoặc thì S2 mất hết dữ liệu, đc giải phóng vùng nhớ
+}
+
+
+VÀO RA TRÊN TỆP:
+- Nguyên tắc là sau khi dùng tệp nên đóng nó lại
+
+break: dừng biên dịch
+return 0: exit khỏi hàm main
+
+3 loại hàm tạo: hàm tạo mặc định, hàm tạo tham số mặc định, hàm tạo có đối
+Hàm thể hiện menu như màn hình sau:
+mỗi option là 1 lựa chọn: 
+
+
+form đề:
+
+cách ép kiểu bên c++: cout<<(int)x; // nếu muốn cout giá trị int của x nhưng x lại là char
+
+Kiểm tra menu (2d):
+Yêu cầu:
+- Nhập vào 6 kí tự đầu tiên của inputText (0.5)
+- In ra màn hình inputText sau khi đã chuyển các chữ cái viết hoa thành viết thường 
+- In ra màn hình InputText sau khu đã chuyển các chữ cái viết thường thành viết hoa
+- In ra màn hình giá trị checksum (tổng các ký tự) của inputText
+- 0.5 đ cho phương án duyệt bằng con trỏ
+
+
+Kiểm tra menu 4 (3.5d):
+Xây dựng class CDate để thay thế cho struct date bao gồm các phương thức sau:
+- Hàm tạo mặc định
+- Hàm tạo các giá trị day, month, year
+*Hàm so sánh ngày tháng:
+int Compare(const (Date& d) {
+int c;
+if(c=year - d.year) return c;
+if(c=month - 
+
+</summary>
+test_menu_1();
+
+ôn dịch bit, fibonacci, số nguyên tố
+
+
+22/2/23
+ôn các toán tử, dịch bit
+protected,public,private: có những quyền gì...
+hàm ảo, hàm thuần ảo,....
+cơ chế đa hình đa xạ
+khi gọi hàm tạo, bnh lần đối tượng dc tạo ra và bnh lần đối tg bị hủy đi, trình tự hủy là gì?
+trl: tạo trc thì hủy sau, tạo sau thì huỷ trc
+dãy kết quả dc lưu trong mảng động thì ta phải lgi để dung lượng vừa đủ chứa
+phải xác định dc cái gì truyền vào hàm, ko thì vứt
+hàm tạo sao chép, hàm toán tử gán
+C:
+tự viết hàm malloc để cấp phát bộ nhớ và my_free để hủy (trong c++ thì là delete)
+
+
+Cú pháp định nghĩa một toán tử nạp chồng:
+
+Kiểu_trả_về operator <toán tử> (danh_sách_đối_số){
+//Định nghĩa toán tử
+}
+https://howkteam.vn/course/khoa-hoc-lap-trinh-c-can-ban/ham-tra-ve-gia-tri-tham-chieu-va-dia-chi-trong-cvalue-reference-and-address-3889
