@@ -1,0 +1,1 @@
+theo lo trinh, chi dung lai o quicksort

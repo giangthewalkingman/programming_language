@@ -1,0 +1,16 @@
+linked list 
+stack -> LIFO
+Queue -> FIFO
+
+
+TH1:
+----o-----o----- I1=I2=I, U=U1+U2=3 V
+
+I = U1/r 
+TH2:
+--o--
+--o--
+
+I=I1+I2, U=U1=U2=1.5V
+
+I = 2*U1/r

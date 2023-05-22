@@ -44,7 +44,8 @@
         "ostream": "cpp",
         "stdexcept": "cpp",
         "streambuf": "cpp",
-        "typeinfo": "cpp"
+        "typeinfo": "cpp",
+        "chrono": "cpp"
     },
     "vscode-cats.opacity": 1,
     "vscode-cats.model": "hijiki",
